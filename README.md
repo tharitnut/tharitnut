@@ -68,11 +68,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/tharitnut">
-    <img width="420" src="https://github-readme-stats.vercel.app/api?username=tharitnut&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="TharitNut's GitHub stats" />
+  <a href="https://github.com/tharitnut" style="text-decoration: none;">
+    <img align="left" width="420" style="margin-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api?username=tharitnut&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" 
+      alt="TharitNut's GitHub stats" />
   </a>
-  <a href="https://github.com/tharitnut">
-    <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharitnut&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <a href="https://github.com/tharitnut" style="text-decoration: none;">
+    <img align="right" width="335"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharitnut&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" 
+      alt="Top Languages" />
   </a>
 </p>
 
