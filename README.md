@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🌍 Based in Bangkok, Thailand (GMT+7)
+- 🌍 Based in Bangkok, Thailand
 - 🎓 4th-year IT student at Thai-Nichi Institute of Technology
 - 💡 Interested in Software Development, Web Technologies and AI
 - 🌱 I'm constantly learning new tools and frameworks to improve my development skills
@@ -77,12 +77,8 @@
 ## 🔗 Social
 
 <p align="left" dir="auto">
-  <a href="https://facebook.com/tharitnut" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" />
-  </a>
-  <a href="https://instagram.com/tharitnut" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" />
-  </a>
+ <a href="https://www.facebook.com/tharit.ruangphungluang" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tharit Ruangphungluang" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="https://www.instagram.com/jellybean_nut/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jellybean_nut" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 </p>
 
 ---
