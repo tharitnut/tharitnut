@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://github.com/tharitnut" style="text-decoration: none;">
-    <img align="left" width="420" style="margin-right: 10px;" 
+    <img align="left" width="420" 
       src="https://github-readme-stats.vercel.app/api?username=tharitnut&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" 
       alt="TharitNut's GitHub stats" />
   </a>
