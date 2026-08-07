@@ -8,7 +8,6 @@
 
 ---
 
-markdown
 ## 🧠 About Me
 - 🌍 Based in Bangkok, Thailand
 - 🎓 Bachelor of Information Technology, Thai-Nichi Institute of Technology (GPA 3.45, 2nd Class Honours)
