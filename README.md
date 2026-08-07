@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Tharit Ruangphungluang (Nut)
 
-💻 I'm a student majoring in Information Technology of Thai-Nichi Institute of Technology in Bangkok, Thailand
+💻 I'm an Information Technology graduate from Thai-Nichi Institute of Technology in Bangkok, Thailand, specializing in Mobile and Full-Stack Development with Flutter, React Native, and Laravel.
 
 </div>
 
