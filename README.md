@@ -82,9 +82,10 @@
 
 ## 🔗 Social
 
-<p align="left" dir="auto">
- <a href="https://www.facebook.com/tharit.ruangphungluang" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tharit Ruangphungluang" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-<a href="https://www.instagram.com/jellybean_nut/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jellybean_nut" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<p align="left">
+  <a href="https://www.facebook.com/tharit.ruangphungluang"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/jellybean_nut/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tharit-ruangphungluang-9662033b0/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
