@@ -76,10 +76,10 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [LinkPOS Simulation](https://github.com/tharitnut/LinkPOS) | Flutter / Dart | POS simulator with MQTT integration and real-time order transmission |
+| [LinkPOS Simulation](https://github.com/tharitnut/Sim_POS) | Flutter / Dart | POS simulator with MQTT integration and real-time order transmission |
 | [MeowManager](https://github.com/tharitnut/MeowManager) | Laravel / PHP | Full-stack cat cafe management system with role-based access |
-| [HealJai](https://github.com/tharitnut/HealJai) | React Native / TypeScript | MBTI-based book recommendation app |
-| [Active Alert](https://github.com/tharitnut/ActiveAlert) | React Native / TypeScript | Exercise alarm and calorie tracker |
+| [HealJai](https://github.com/NatrinT/SoftwareEngineerProject) | React Native / TypeScript | MBTI-based book recommendation app |
+| [Active Alert](https://github.com/tharitnut/ReactNativeFinalProject) | React Native / TypeScript | Exercise alarm and calorie tracker |
 
 ---
 
