@@ -14,7 +14,7 @@
 - 💡 Interested in Mobile Development, Full-Stack Web Development, and AI
 - 🌱 Constantly exploring new tools and frameworks across cross-platform mobile and web ecosystems
 - 🤝 I enjoy working in collaborative environments and solving real-world problems through technology
-- 📫 Reach me at **[nut.tharit.04@gmail.com](mailto:nut.tharit.r04@gmail.com)**
+- 📫 Reach me at **[nut.tharit.r04@gmail.com](mailto:nut.tharit.r04@gmail.com)**
 
 ---
 
@@ -72,10 +72,25 @@
 
 ---
 
+## 📌 Featured Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [LinkPOS Simulation](https://github.com/tharitnut/LinkPOS) | Flutter / Dart | POS simulator with MQTT integration and real-time order transmission |
+| [MeowManager](https://github.com/tharitnut/MeowManager) | Laravel / PHP | Full-stack cat cafe management system with role-based access |
+| [HealJai](https://github.com/tharitnut/HealJai) | React Native / TypeScript | MBTI-based book recommendation app |
+| [Active Alert](https://github.com/tharitnut/ActiveAlert) | React Native / TypeScript | Exercise alarm and calorie tracker |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tharitnut&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/tharitnut/tharitnut/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
