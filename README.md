@@ -8,14 +8,14 @@
 
 ---
 
+markdown
 ## 🧠 About Me
-
 - 🌍 Based in Bangkok, Thailand
-- 🎓 4th-year IT student at Thai-Nichi Institute of Technology
-- 💡 Interested in Software Development, Web Technologies and AI
-- 🌱 I'm constantly learning new tools and frameworks to improve my development skills
+- 🎓 Bachelor of Information Technology, Thai-Nichi Institute of Technology (GPA 3.45, 2nd Class Honours)
+- 💡 Interested in Mobile Development, Full-Stack Web Development, and AI
+- 🌱 Constantly exploring new tools and frameworks across cross-platform mobile and web ecosystems
 - 🤝 I enjoy working in collaborative environments and solving real-world problems through technology
-- 📫 Reach me at **[nut.tharit.r04@gmail.com](mailto:nut.tharit.r04@gmail.com)**
+- 📫 Reach me at **[nut.tharit.04@gmail.com](mailto:nut.tharit.r04@gmail.com)**
 
 ---
 
