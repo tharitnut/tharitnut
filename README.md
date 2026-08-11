@@ -86,10 +86,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tharitnut&theme=github-dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github.com/tharitnut/tharitnut/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
