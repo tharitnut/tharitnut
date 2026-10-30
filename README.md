@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Tharit Ruangphungluang (Nut)
 
-💻 I'm an Information Technology graduate from Thai-Nichi Institute of Technology in Bangkok, Thailand, specializing in Mobile and Full-Stack Development with Flutter, React Native, and Laravel.
+💻 I'm an Information Technology graduate from Thai-Nichi Institute of Technology in Bangkok, Thailand, specializing in Mobile and Full-Stack Development with Flutter, React Native, Next.js, and Laravel.
 
 </div>
 
@@ -38,8 +38,10 @@
 ### 🌐 Frontend & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET%20Core%20MVC-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -53,9 +55,12 @@
 ### ⚙️ Tools
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 
 ### 🧠 IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -76,6 +81,7 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
+| [PulseSync](https://github.com/tharitnut/PulseSync) | Next.js / TypeScript / Pusher | Real-time healthcare web application with live patient sync, staff monitoring, and automated CI/CD |
 | [LinkPOS Simulation](https://github.com/tharitnut/Sim_POS) | Flutter / Dart | POS simulator with MQTT integration and real-time order transmission |
 | [MeowManager](https://github.com/tharitnut/MeowManager) | Laravel / PHP | Full-stack cat cafe management system with role-based access |
 | [HealJai](https://github.com/NatrinT/SoftwareEngineerProject) | React Native / TypeScript | MBTI-based book recommendation app |
