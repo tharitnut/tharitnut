@@ -43,11 +43,13 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -75,6 +77,7 @@
 
 | Project | Tech | Description |
 |---|---|---|
+| [Slip Expense Tracker](https://github.com/tharitnut/Slip-Expense-Tracker) | Next.js / FastAPI / PostgreSQL | Full-stack personal finance web application with Thai bank slip OCR extraction, automated categorization, and spending analytics |
 | [PulseSync](https://github.com/tharitnut/PulseSync) | Next.js / TypeScript / Pusher | Real-time healthcare web application with live patient sync, staff monitoring, and automated CI/CD |
 | [LinkPOS Simulation](https://github.com/tharitnut/Sim_POS) | Flutter / Dart | POS simulator with MQTT integration and real-time order transmission |
 | [MeowManager](https://github.com/tharitnut/MeowManager) | Laravel / PHP | Full-stack cat cafe management system with role-based access |
