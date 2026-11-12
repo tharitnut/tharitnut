@@ -82,7 +82,7 @@
 | [PulseSync](https://github.com/tharitnut/PulseSync) | Next.js / TypeScript / Pusher | Real-time healthcare web application with live patient sync, staff monitoring, and automated CI/CD |
 | [Active Alert](https://github.com/tharitnut/ActiveAlert) | React Native / TypeScript | Exercise alarm and calorie tracker mobile application |
 | [HealJai](https://github.com/NatrinT/SoftwareEngineerProject) | React Native / TypeScript | MBTI-based personalized book recommendation mobile app |
-| [LinkPOS Simulation](https://github.com/tharitnut/Sim_POS) | Flutter / Dart / MQTT | POS simulator with MQTT integration, Device Activation APIs, and real-time order transmission |
+| **LinkPOS Simulation** *(Internal Enterprise Project)* | Flutter / Dart / MQTT | POS simulator with MQTT integration, Device Activation APIs, and real-time order transmission *(Proprietary — Digio Thailand)* |
 | [MeowManager](https://github.com/tharitnut/MeowManager) | Laravel / PHP / MySQL | Full-stack cat cafe management system with role-based access control |
 | [TFTactics](https://github.com/tharitnut/TFTactics) | C# / .NET MAUI | Cross-platform Teamfight Tactics guide app with champion stats, item recipes, and team comps |
 | [TaxEase](https://github.com/tharitnut/TaxEase) | Java / Database | Personal income tax calculation app for estimating deductions and net tax brackets |
