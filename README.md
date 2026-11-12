@@ -37,6 +37,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🌐 Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -79,10 +80,13 @@
 |---|---|---|
 | [Slip Expense Tracker](https://github.com/tharitnut/Slip-Expense-Tracker) | Next.js / FastAPI / PostgreSQL | Full-stack personal finance web application with Thai bank slip OCR extraction, automated categorization, and spending analytics |
 | [PulseSync](https://github.com/tharitnut/PulseSync) | Next.js / TypeScript / Pusher | Real-time healthcare web application with live patient sync, staff monitoring, and automated CI/CD |
-| [LinkPOS Simulation](https://github.com/tharitnut/Sim_POS) | Flutter / Dart | POS simulator with MQTT integration and real-time order transmission |
-| [MeowManager](https://github.com/tharitnut/MeowManager) | Laravel / PHP | Full-stack cat cafe management system with role-based access |
-| [HealJai](https://github.com/NatrinT/SoftwareEngineerProject) | React Native / TypeScript | MBTI-based book recommendation app |
-| [Active Alert](https://github.com/tharitnut/ReactNativeFinalProject) | React Native / TypeScript | Exercise alarm and calorie tracker |
+| [Active Alert](https://github.com/tharitnut/ActiveAlert) | React Native / TypeScript | Exercise alarm and calorie tracker mobile application |
+| [HealJai](https://github.com/NatrinT/SoftwareEngineerProject) | React Native / TypeScript | MBTI-based personalized book recommendation mobile app |
+| [LinkPOS Simulation](https://github.com/tharitnut/Sim_POS) | Flutter / Dart / MQTT | POS simulator with MQTT integration, Device Activation APIs, and real-time order transmission |
+| [MeowManager](https://github.com/tharitnut/MeowManager) | Laravel / PHP / MySQL | Full-stack cat cafe management system with role-based access control |
+| [TFTactics](https://github.com/tharitnut/TFTactics) | C# / .NET MAUI | Cross-platform Teamfight Tactics guide app with champion stats, item recipes, and team comps |
+| [TaxEase](https://github.com/tharitnut/TaxEase) | Java / Database | Personal income tax calculation app for estimating deductions and net tax brackets |
+| [Rush Hour](https://github.com/tharitnut/RushHour) | Java / Swing & AWT | Desktop random food menu & meal ordering app with customization options and order history |
 
 ---
 
